@@ -1,3 +1,3 @@
-# Matplot Library Exercise
+# Matplot Library Exercises
 
-This is an exercise in utilizing matplot library from relevant coursework in Applied Machine Learning
+Exercising use of matplot library for scientific plots and analysis. 
